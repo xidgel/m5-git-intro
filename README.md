@@ -93,3 +93,7 @@ Repeat steps 3 - 5 each time you want to make a checkpoint of your work and save
 Using git and GitHub can be challenging, and you'll inevitably run into issues. While it's tempting to ignore version control systems, **they will save you time** in the long-run. For now, do your best to follow these processes, and read any error messages carefully. If you run into trouble, try to understand the issue (Google/StackOverflow), and consult other for help.
 
 To practice using these basic commands, see [exercise-1](http://github.com/info201-s17/m5-git-intro/tree/master/exercise-1).
+
+### Breakfast
+1. Toast _with_ cream cheese
+2. Coffee (black)
